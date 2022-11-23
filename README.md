@@ -1,2 +1,1 @@
-Курс по фреймворку Nest от UlbiTv
-
+Курс по фреймворку Nest от [UlbiTv](https://youtu.be/dDeWWQWMM-Y)
